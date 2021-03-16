@@ -1,1 +1,1 @@
-console.log("SUNDAY MORNING")
+console.log("Easy like SUNDAY MORNING")
